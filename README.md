@@ -13,3 +13,7 @@ I am *Lesley Lai*. A Software Engineering Intern at Trimble SketchUp and a Compu
 ![Lesley's github stats](https://github-readme-stats.vercel.app/api?username=LesleyLai&count_private=true&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesleyLai&hide=cmake&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Recent Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
