@@ -16,4 +16,9 @@ I am *Lesley Lai*. A Software Engineering Intern at Trimble SketchUp and a Compu
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The implication of const or reference member variables in C++](https://www.lesleylai.info/en/const-and-reference-member-variables)
+- [Zero is the Devil: Common ways to construct bogus proofs](https://www.lesleylai.info/en/zero-is-the-devil)
+- [Summary of reading: January - March 2020](https://www.lesleylai.info/en/summary-of-reading-january-march-2020)
+- [Concepts in Programming Languages, Part II: Statics](https://www.lesleylai.info/en/statics)
+- [The surprising codegen impact of noexcept](https://www.lesleylai.info/en/noexcept-codegen)
 <!-- BLOG-POST-LIST:END -->
