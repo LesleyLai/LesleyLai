@@ -10,10 +10,6 @@ I am *Lesley Lai*. A Software Engineering Intern at Trimble SketchUp and a Compu
 - 📫 How to reach me: [Twitter - @LesleyLai6](https://twitter.com/LesleyLai6) or [LinkedIn - Lesley Lai](https://www.linkedin.com/in/lesley-lai/)
 - 💬 Ask me about Graphics programming, Ray Tracing, Game Dev, Programming Languages Theories, Functional Programming, C++, Rust, OCaml, Elm, and Typescript. Always want to chat!
 
-![Lesley's github stats](https://github-readme-stats.vercel.app/api?username=LesleyLai&count_private=true&show_icons=true&theme=vue-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesleyLai&hide=cmake&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The implication of const or reference member variables in C++](https://www.lesleylai.info/en/const-and-reference-member-variables)
