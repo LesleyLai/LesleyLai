@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-I am *Lesley Lai*. A Software Engineering Intern at Trimble SketchUp and a Computer Science and Applied Mathematics undergraduate student at the University of Colorado at Boulder. 
-
 - 😄 Pronouns: He/Him
 - 🚧 I am currently work on [Beyond Game Engine](https://github.com/Beyond-Engine/Beyond-Game-Engine), [ocamlpt](https://github.com/LesleyLai/ocamlpt), and [MVP Interpreter
 ](https://github.com/LesleyLai/mvp)
