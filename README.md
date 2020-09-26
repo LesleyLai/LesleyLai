@@ -1,6 +1,6 @@
 ### Hi there, I am Lesley Lai 👋
 - 😄 Pronouns: He/Him
-- 🚧 I am currently work on [Beyond Game Engine](https://github.com/Beyond-Engine/Beyond-Game-Engine), [ocamlpt](https://github.com/LesleyLai/ocamlpt), and [MVP Interpreter
+- 🚧 I am currently working on [Beyond Game Engine](https://github.com/Beyond-Engine/Beyond-Game-Engine), [ocamlpt](https://github.com/LesleyLai/ocamlpt), and [MVP Interpreter
 ](https://github.com/LesleyLai/mvp)
 - 📖 I am currently learning [Optix](https://developer.nvidia.com/optix)
 - ℹ️ I have a [blog](https://lesleylai.info/) and a [Youtube channel](https://www.youtube.com/channel/UCw6w2apOo7DuUoDz0vHAVxQ)
