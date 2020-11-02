@@ -9,9 +9,9 @@
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Improve Rust Link Time with lld](https://www.lesleylai.info/en/improve-rust-link-time-with-lld)
 - [Recursive Modules in OCaml](https://www.lesleylai.info/en/recursive_modules_in_ocaml)
 - [Beware passing mutable lambda to STL algorithms.](https://www.lesleylai.info/en/mutable-lambda-in-algorithms)
 - [The implication of const or reference member variables in C++](https://www.lesleylai.info/en/const-and-reference-member-variables)
 - [Zero is the Devil: Common ways to construct bogus proofs](https://www.lesleylai.info/en/zero-is-the-devil)
-- [Summary of reading: January - March 2020](https://www.lesleylai.info/en/summary-of-reading-january-march-2020)
 <!-- BLOG-POST-LIST:END -->
