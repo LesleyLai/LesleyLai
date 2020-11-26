@@ -14,3 +14,7 @@
 - [The implication of const or reference member variables in C++](https://www.lesleylai.info/en/const-and-reference-member-variables)
 - [Zero is the Devil: Common ways to construct bogus proofs](https://www.lesleylai.info/en/zero-is-the-devil)
 <!-- BLOG-POST-LIST:END -->
+
+### Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
