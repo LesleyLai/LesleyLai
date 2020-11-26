@@ -17,4 +17,11 @@
 
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
+```text
+Elm        3 hrs 58 mins   ██████████▓░░░░░░░░░░░░░░   42.17 % 
+Org Mode   2 hrs 58 mins   ████████░░░░░░░░░░░░░░░░░   31.64 % 
+C#         1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+C++        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Rust       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+```
 <!--END_SECTION:waka-->
