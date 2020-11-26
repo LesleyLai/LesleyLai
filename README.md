@@ -6,7 +6,7 @@
 - 📫 How to reach me: [Twitter - @LesleyLai6](https://twitter.com/LesleyLai6) or [LinkedIn - Lesley Lai](https://www.linkedin.com/in/lesley-lai/)
 - 💬 Ask me about Graphics programming, Ray Tracing, Game Dev, Programming Languages Theories, Functional Programming, C++, Rust, OCaml, Elm, and Typescript. Always want to chat!
 
-### Recent blog posts
+📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Improve Rust Link Time with lld](https://www.lesleylai.info/en/improve-rust-link-time-with-lld)
 - [Recursive Modules in OCaml](https://www.lesleylai.info/en/recursive_modules_in_ocaml)
@@ -15,13 +15,7 @@
 - [Zero is the Devil: Common ways to construct bogus proofs](https://www.lesleylai.info/en/zero-is-the-devil)
 <!-- BLOG-POST-LIST:END -->
 
-### Weekly development breakdown
-<!--START_SECTION:waka-->
-```text
-Elm        3 hrs 58 mins   ██████████▓░░░░░░░░░░░░░░   42.17 % 
-Org Mode   2 hrs 58 mins   ████████░░░░░░░░░░░░░░░░░   31.64 % 
-C#         1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-C++        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Rust       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-```
-<!--END_SECTION:waka-->
+
+📊 **This week I spent my time on**
+
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=lesleylai&hide_title=true&hide_border=true&langs_count=5)
