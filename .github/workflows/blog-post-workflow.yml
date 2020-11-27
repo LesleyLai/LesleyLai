@@ -14,5 +14,5 @@ jobs:
           feed_list: "https://lesleylai.info/rss.xml"
           max_post_count: 5
           template: "- [$title]($url) ($date)$newline"
-          date_format: mmmm dd, yyyy
+          date_format: "mmmm dd, yyyy"
           tag_post_pre_newline: true
