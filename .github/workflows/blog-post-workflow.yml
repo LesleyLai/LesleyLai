@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 12 * * *' # Runs every day, 12:00 UTC
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
@@ -13,3 +13,6 @@ jobs:
         with:
           feed_list: "https://lesleylai.info/rss.xml"
           max_post_count: 5
+          template: "- [$title]($url) ($date)$newline"
+          date_format: dddd, yyyy dd mmmm
+          tag_post_pre_newline: true
