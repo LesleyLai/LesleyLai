@@ -8,11 +8,11 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Factual errors in "These Modern Programming Languages Will Make You Suffer", and why it is a suffer to read](https://www.lesleylai.info/en/factual-errors-in-modern-language-sucks) (December 08, 2020)
 - [Improve Rust Link Time with lld](https://www.lesleylai.info/en/improve-rust-link-time-with-lld) (November 01, 2020)
 - [Recursive Modules in OCaml](https://www.lesleylai.info/en/recursive_modules_in_ocaml) (October 15, 2020)
 - [Beware passing mutable lambda to STL algorithms.](https://www.lesleylai.info/en/mutable-lambda-in-algorithms) (September 30, 2020)
 - [The implication of const or reference member variables in C++](https://www.lesleylai.info/en/const-and-reference-member-variables) (August 18, 2020)
-- [Zero is the Devil: Common ways to construct bogus proofs](https://www.lesleylai.info/en/zero-is-the-devil) (May 10, 2020)
 
 <!-- BLOG-POST-LIST:END -->
 
