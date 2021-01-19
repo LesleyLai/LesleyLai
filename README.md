@@ -8,11 +8,11 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [What is std::function in C++, and why we need them?](https://www.lesleylai.info/en/std-function) (January 18, 2021)
 - [Resources that help you to delve into C++](https://www.lesleylai.info/en/delve_into_cpp) (January 15, 2021)
 - [Summary of reading: October - December 2020](https://www.lesleylai.info/en/summary-of-reading-october-december-2020) (December 27, 2020)
 - [Factual errors in "These Modern Programming Languages Will Make You Suffer", and why it is a suffer to read](https://www.lesleylai.info/en/factual-errors-in-modern-language-sucks) (December 08, 2020)
 - [Improve Rust Link Time with lld](https://www.lesleylai.info/en/improve-rust-link-time-with-lld) (November 01, 2020)
-- [Recursive Modules in OCaml](https://www.lesleylai.info/en/recursive_modules_in_ocaml) (October 15, 2020)
 
 <!-- BLOG-POST-LIST:END -->
 
