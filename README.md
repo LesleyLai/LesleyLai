@@ -15,8 +15,3 @@
 - [Improve Rust Link Time with lld](https://www.lesleylai.info/en/improve-rust-link-time-with-lld) (November 01, 2020)
 
 <!-- BLOG-POST-LIST:END -->
-
-
-📊 **This week I spent my time on**
-
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=lesleylai&hide_title=true&hide_border=true&langs_count=7)
