@@ -8,10 +8,10 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Small Naming Tip: Use &quot;from&quot; Instead of &quot;to&quot; in Function and Variable Names](https://www.lesleylai.info/en/from-vs-to) (February 10, 2024)
 - [What happened to Lesley in the last couple of years](https://www.lesleylai.info/en/2023-life-update) (December 17, 2023)
 - [Use ManuallyDrop in Rust to control drop order of structure fields](https://www.lesleylai.info/en/rust-manually-drop) (February 06, 2023)
 - [CMAKE_SOURCE_DIR is probably not what you want](https://www.lesleylai.info/en/cmake_src_directory) (February 17, 2022)
 - [VK_KHR_dynamic_rendering tutorial](https://www.lesleylai.info/en/vk-khr-dynamic-rendering) (January 16, 2022)
-- [How I create bilingual functionality of this blog in plain Typescript](https://www.lesleylai.info/en/bilingual-blog) (January 01, 2022)
 
 <!-- BLOG-POST-LIST:END -->
