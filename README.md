@@ -8,7 +8,7 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Summary of reading: January - March 2024](https://www.lesleylai.info/en/summary-of-reading-january-march-2024) (April 01, 2024)
+- [Summary of reading: January - March 2024](https://www.lesleylai.info/en/summary-of-reading-january-march-2024) (March 28, 2024)
 - [Online Courses that I Recommend](https://www.lesleylai.info/en/moocs) (March 17, 2024)
 - [Small Naming Tip: Use &quot;from&quot; Instead of &quot;to&quot; in Function and Variable Names](https://www.lesleylai.info/en/from-vs-to) (February 10, 2024)
 - [What happened to Lesley in the last couple of years](https://www.lesleylai.info/en/2023-life-update) (December 17, 2023)
