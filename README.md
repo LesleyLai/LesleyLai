@@ -8,10 +8,10 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Summary of reading: April - June 2024](https://www.lesleylai.info/en/summary-of-reading-april-june-2024) (July 07, 2024)
-- [Representing an Abstract Syntax Tree in C++: Part 1 - Variants](https://www.lesleylai.info/en/ast-in-cpp-part-1-variant) (April 22, 2024)
-- [Summary of reading: January - March 2024](https://www.lesleylai.info/en/summary-of-reading-january-march-2024) (March 28, 2024)
-- [Online Courses that I Recommend](https://www.lesleylai.info/en/moocs) (March 17, 2024)
-- [Small Naming Tip: Use &quot;from&quot; Instead of &quot;to&quot; in Function and Variable Names](https://www.lesleylai.info/en/from-vs-to) (February 10, 2024)
+- [Representing an Abstract Syntax Tree in C++: Variants](https://lesleylai.info/en/ast-in-cpp-part-1-variant) (April 22, 2024)
+- [Online Courses that I Recommend](https://lesleylai.info/en/moocs) (March 17, 2024)
+- [Small Naming Tip: Use &quot;from&quot; Instead of &quot;to&quot; in Function and Variable Names](https://lesleylai.info/en/from_vs_to_in_names) (February 10, 2024)
+- [What happened to Lesley in the last couple of years](https://lesleylai.info/en/2023-life-update) (December 17, 2023)
+- [Use ManuallyDrop in Rust to control drop order of structure fields](https://lesleylai.info/en/rust-manually-drop) (February 06, 2023)
 
 <!-- BLOG-POST-LIST:END -->
