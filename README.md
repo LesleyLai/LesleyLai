@@ -1,4 +1,7 @@
 ### Hi there, I am Lesley Lai 👋
+
+Note: as of 2025-5-14, I will start to reduce my activities on Github and migrate some of my existing repositories to [CodeBerg]([https://codeberg.org/](https://codeberg.org/Lesley))
+
 - 😄 Pronouns: He/Him
 - ℹ️ I have a [blog](https://lesleylai.info/) and a [Youtube channel](https://www.youtube.com/channel/UCw6w2apOo7DuUoDz0vHAVxQ)
 - 📫 How to reach me: [Mastodon - @lesley@mastodon.gamedev.place](https://mastodon.gamedev.place/@lesley)
