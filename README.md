@@ -10,10 +10,10 @@
 
 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Fifty Shades of OOP](https://lesleylai.info/en/fifty_shades_of_oop) (November 24, 2025)
 - [Self hosting comments with Comentario](https://lesleylai.info/en/self-host-comentario) (April 25, 2025)
 - [Site Update &lpar;April 2025&rpar;](https://lesleylai.info/en/site-update-2025) (April 21, 2025)
 - [Representing an Abstract Syntax Tree in C++: Variants](https://lesleylai.info/en/ast-in-cpp-part-1-variant) (April 22, 2024)
 - [Online Courses that I Recommend](https://lesleylai.info/en/moocs) (March 17, 2024)
-- [Small Naming Tip: Use &quot;from&quot; Instead of &quot;to&quot; in Function and Variable Names](https://lesleylai.info/en/from_vs_to_in_names) (February 10, 2024)
 
 <!-- BLOG-POST-LIST:END -->
