@@ -1,6 +1,6 @@
 ### Hi there, I am Lesley Lai 👋
 
-**Note: Starting from 2025-5-14, I started reducing my activities on Github and migrating some of my existing repositories to [Codeberg](https://codeberg.org/Lesley). Future personal projects are unlikely to be hosted on this platform.**
+**Note: Starting from 2025-5-14, I started reducing my activities on Github and migrating some of my existing repositories to [my own Forgejo instance](https://git.lesleylai.info/) and [Codeberg](https://codeberg.org/Lesley). Future personal projects are unlikely to be hosted on this platform.**
 
 - Pronouns: He/Him
 - ℹI have a [blog](https://lesleylai.info/)
